@@ -9,7 +9,7 @@
     "serve": "node dist/index.js",
     "test": "mocha --compilers js:babel-register"
   },
-  "author": "James Kyle <me@thejameskyle.com>",
+  "author": "gandhi amarnadh <gandhiamar2@gmail.com>",
   "license": "ISC",
   "devDependencies": {
     "babel-cli": "^6.11.4",
